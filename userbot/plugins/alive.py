@@ -19,9 +19,9 @@ ALIVE_caption += "**Sensible  OS** : `3.14`\n\n"
 ALIVE_caption += "**Current Sat** : `Sensible Userbot Sat-2.95`\n\n"
 ALIVE_caption += f"**My Boss** : {DEFAULTUSER} \n\n"
 ALIVE_caption += "**Heroku Database** : `AWS - Working Properly`\n\n"
-ALIVE_caption += "**Bot Made By @ceowhitehatcracks** \n\n"
-ALIVE_caption += "Copyright By [CEOWHITEHATCRACKS](GitHub.com/spandey112)\n\n"
-ALIVE_caption += "[Deploy SensibleUserbot](GitHub.com/spandey112/SensibleUserbot)"
+ALIVE_caption += "**Bot Made By @ImKaviya** \n\n"
+ALIVE_caption += "Copyright By [TWE](t.me/Tech_Wizard_Entertainment)\n\n"
+ALIVE_caption += "[Join Our Group](t.me/Tech_Wizard_Ent)"
 #@command(outgoing=True, pattern="^.alive$")
 @borg.on(admin_cmd(pattern=r"alive"))
 async def sensible(alive):
