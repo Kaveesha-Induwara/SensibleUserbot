@@ -1,7 +1,7 @@
 {
   "name": "Sensible Userbot",
-  "description": "Userbot created by a @CeoWhiteHatCracks and join https://t.me/sensible_userbot for any problems or support",
-  "logo": "https://telegra.ph/file/2f76a5ea2a9ec22ab4284.jpg",
+  "description": "Userbot created by a @ImKaviya and join https://t.me/Tech_Wizard_Ent for any problems or support",
+  "logo": "https://telegra.ph/file/e09fb70dc8b95dd6867ea.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/spandey112/SensibleUserbot",
+  "repository": "https://github.com/kaviya-admin/SensibleUserbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @Ceowhitehatcracks",
+      "description": "Fill your Full name or Username like @ImKaviya",
       "value": ""
     },
     "APP_ID": {
