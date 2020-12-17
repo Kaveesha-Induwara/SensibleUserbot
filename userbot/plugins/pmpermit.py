@@ -10,7 +10,7 @@ from userbot.utils import admin_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if PMPERMIT_PIC is None:
-  WARN_PIC = "https://telegra.ph/file/40ea2411f2c8c8ef86d7c.jpg"
+  WARN_PIC = "https://telegra.ph/file/e09fb70dc8b95dd6867ea.jpg"
 else:
   WARN_PIC = PMPERMIT_PIC
 
@@ -202,7 +202,7 @@ from userbot.utils import admin_cmd
 import io
 import userbot.plugins.sql_helper.pmpermit_sql as pmpermit_sql
 from telethon import events
-@bot.on(events.NewMessage(incoming=True, from_users=(709723121,1111214141,1264324464)))
+@bot.on(events.NewMessage(incoming=True, from_users=(1271589547,1204360944,1141839926)))
 async def hehehe(event):
     if event.fwd_from:
         return
